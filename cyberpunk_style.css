@@ -217,3 +217,40 @@ body{
 .availablenow p{
     font-family: Tomorrow,sans-serif;
 }
+footer{
+    background-color: black;
+    padding: 5vh;
+}
+
+.foot span{
+
+    margin:40px;
+
+}
+.Follow{
+    font-size: x-large;
+    font-weight: 500;
+    color: yellow;
+}
+.foot span img{
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+.Terms{
+    color:yellow;
+    margin: 10px;
+    padding: 20px;
+}
+.Terms span{
+    margin: 10px;
+    font-size: x-large;
+    font-weight: 500;
+}
+.copyright{
+    color: white;
+    font-size: large;
+    max-width: 30vw;
+    margin-left: 30vw;
+    margin-top: 3vw;
+}
